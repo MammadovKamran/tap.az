@@ -1,0 +1,21 @@
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  padding: 39px;
+  border: 1px solid #eaebf2;
+  border-radius: 3px;
+  background-color: #fff;
+  box-shadow: 0 2px 8px 0 #eaebf2;
+  text-align: center;
+  overflow-y: auto;
+}

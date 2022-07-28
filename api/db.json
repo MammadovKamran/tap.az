@@ -1,0 +1,133 @@
+{
+  "users": [
+    {
+      "email": "kamran.97.memmedov@gmail.com",
+      "password": "kamran120",
+      "id": 1
+    },
+    {
+      "email": "kamran@gmail.com",
+      "password": "kamran120",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone X",
+      "price": "1000$",
+      "description": "Iphone X is the best phone ever",
+      "city": "Bakı",
+      "phone": "0123456789",
+      "new": "true",
+      "category": "Electronics",
+      "img": "https://picsum.photos/200",
+      "addedTime": "2020-01-01",
+      "vip": "true"
+    },
+    {
+      "id": 2,
+      "name": "Iphone XS",
+      "price": "1200$",
+      "description": "Iphone XS is the best phone ever",
+      "city": "Gəncə",
+      "phone": "0123456789",
+      "new": "true",
+      "category": "Electronics",
+      "img": "https://picsum.photos/200",
+      "addedTime": "2020-01-01",
+      "vip": "true"
+    },
+    {
+      "id": 3,
+      "name": "Book",
+      "price": "1300$",
+      "description": "Iphone XS Max is the best phone ever",
+      "city": "Bakı",
+      "phone": "0123456789",
+      "new": "true",
+      "category": "Electronics",
+      "img": "https://picsum.photos/200",
+      "addedTime": "2020-01-05",
+      "vip": "false"
+    },
+    {
+      "id": 4,
+      "name": "Iphone XS Max",
+      "price": "1300$",
+      "description": "Iphone XS Max is the best phone ever",
+      "city": "Sumqayıt",
+      "phone": "0123456789",
+      "new": "true",
+      "category": "Electronics",
+      "img": "https://picsum.photos/200",
+      "addedTime": "2020-01-03",
+      "vip": "false"
+    },
+    {
+      "id": 5,
+      "name": "Book",
+      "price": "1300$",
+      "description": "Iphone XS Max is the best phone ever",
+      "city": "Bakı",
+      "phone": "0123456789",
+      "new": "true",
+      "category": "Electronics",
+      "img": "https://picsum.photos/200",
+      "addedTime": "2020-01-01",
+      "vip": "true"
+    },
+    {
+      "id": 5,
+      "name": "Iphone XS Max",
+      "price": "1300$",
+      "description": "Iphone XS Max is the best phone ever",
+      "city": "Gəncə",
+      "phone": "0123456789",
+      "new": "true",
+      "category": "Electronics",
+      "img": "https://picsum.photos/200",
+      "addedTime": "2020-01-01",
+      "vip": "true"
+    },
+    {
+      "id": 6,
+      "name": "car",
+      "price": "1300$",
+      "description": "Iphone XS Max is the best phone ever",
+      "city": "Bakı",
+      "phone": "0123456789",
+      "new": "true",
+      "category": "Electronics",
+      "img": "https://picsum.photos/200",
+      "addedTime": "2020-01-01",
+      "vip": "false"
+    },
+    {
+      "id": 7,
+      "name": "Iphone XS Max",
+      "price": "1300$",
+      "description": "Iphone XS Max is the best phone ever",
+      "city": "Sumqayıt",
+      "phone": "0123456789",
+      "new": "true",
+      "category": "Electronics",
+      "img": "https://picsum.photos/200",
+      "addedTime": "2020-01-02 ",
+      "vip": "false"
+    },
+    {
+      "id": 8,
+      "name": "Iphone XS Max",
+      "price": "1300$",
+      "description": "Iphone XS Max is the best phone ever",
+      "city": "Gəncə",
+      "phone": "0123456789",
+      "new": "true",
+      "category": "Electronics",
+      "img": "https://picsum.photos/200",
+      "addedTime": "2020-01-04",
+      "vip": "true"
+    }
+  ]
+}
